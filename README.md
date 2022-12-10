@@ -3,7 +3,7 @@
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It was also built using Ruby v2.7.4 on Rails v7.0.4*
 
 ## Overview
-This is the starter code file for my blog post on getting started with cookies and sessions.
+This is the starter code repository for my blog post on getting started with cookies and sessions.
 
 [Follow along with my blog post on cookies/sessions]() to build out the rest of the Rails back end.
 
